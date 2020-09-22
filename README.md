@@ -1,8 +1,10 @@
 # Birdie's Details
 Contact Information and Keys
 
+### Matrix
 
-
+**Address:** `(a)birdietheowl:tchncs[dot]de`  
+*Old Address `(a)owlthebird:privacytools[dot]io` is no longer used!*
 
 ### E-Mail
   
